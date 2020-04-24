@@ -10,7 +10,7 @@ It will automatically backup your data into a usb drive using python
 pip install pyinstaller
 ```
 
-# ADD PATH FOR TEXT EDITOR OR IDE HERE:
+# ADD PATH Source Folder:
 ```
 source = ("")#ADD THE PATH OF The Source Folder
 
